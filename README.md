@@ -14,6 +14,10 @@ color choices (e.g. by tapping the inner area of the ring).
 
 ![Android Wear Color Picker](https://github.com/cmichi/android-wear-color-picker/raw/master/colorpicker.jpg)
 
+The black bar at the bottom of the watch is part of every Moto 360. This
+"flat tire" contains hardware sensors. On other Smartwatches without this
+shortcoming (such as the LG R) the ring would be displayed fully.
+
 ## License
 
 The code is licensed under the MIT license:

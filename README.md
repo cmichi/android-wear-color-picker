@@ -1,10 +1,18 @@
-# Android Wear Colorpicker
+# Android Wear Color Picker
 
+This is a simple color picker app for Android Wear and round Smartwatches.
+It has been tested with a Motorola Moto 360.
+
+A ring with a color gradient is aligned to the bezel of the Smartwatch. The 
+ring can be dragged by touch gestures, the active color being the one at 12 
+o'clock. The active color is always shown in the inner part of the ring.
+
+The code from this app could be included into an app as a mean to enable 
+color choices (e.g. by tapping the inner area of the ring). 
 
 ## How it looks
 
 ![Android Wear Color Picker](https://github.com/cmichi/android-wear-color-picker/raw/master/colorpicker.jpg)
-
 
 ## License
 
@@ -32,6 +40,3 @@ The code is licensed under the MIT license:
 	LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 	OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 	WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-

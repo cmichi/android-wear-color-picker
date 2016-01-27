@@ -22,7 +22,7 @@ shortcoming (such as the LG R) the ring would be displayed fully.
 
 ## License
 
-The code is licensed under the MIT license:
+The code is licensed under the MIT license.
 
 	Copyright (c) 2015
 

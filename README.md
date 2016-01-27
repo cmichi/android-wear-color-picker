@@ -8,7 +8,9 @@ ring can be dragged by touch gestures, the active color being the one at 12
 o'clock. The active color is always shown in the inner part of the ring.
 
 The code from this app could be included into an app as a mean to enable 
-color choices (e.g. by tapping the inner area of the ring). 
+color choices (e.g. by tapping the inner area of the ring, see line 46 in
+`RingController.java`). This app originated from a much larger app and some
+of the code could probably still be stripped down.
 
 ## How it looks
 
